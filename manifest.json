@@ -1,0 +1,10 @@
+{
+    "manifest_version" : 3,
+    "name" : "Jobs Daily",
+    "description" : "Brings the new job listings to user every time they open a new tab on their browser",
+    "version" : "1.0",
+    "action" : {
+        "default_popup" : "jobs-daily.html",
+        "default_icon" : "jobs-daily.png"
+    }
+}
